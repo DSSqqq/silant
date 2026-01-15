@@ -10,7 +10,7 @@
    > Выполнить команду в терминале
 
    ```
-   git clone https://github.com/meaningless-word/Silant.git
+   git clone
    ```
 
 2. Подготовка и запуск Backend-а
